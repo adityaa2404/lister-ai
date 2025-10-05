@@ -1,0 +1,46 @@
+# Virtual environments
+new_venv/
+venv/
+.env/
+*.env
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.pkl
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# Audio or large media (if auto-generated)
+audio/
+*.wav
+*.mp3
+
+# Environment/config files
+.env
+.env.local
+.env.production
+.env.development
+
+# Dependency folders (if created)
+*.egg-info/
+dist/
+build/
+
+# Optional: ignore model/cache downloads
+whisper_cache/
+model_cache/
