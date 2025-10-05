@@ -12,19 +12,7 @@ Empowering electricians and site professionals to generate **accurate, categoriz
 
 ---
 
-## 🧭 Table of Contents
-- [Overview](#overview)
-- [Key Features](#key-features)
-- [System Architecture](#system-architecture)
-- [Tech Stack](#tech-stack)
-- [Getting Started](#getting-started)
-- [Usage](#usage)
-- [Example Output](#example-output)
-- [Future Roadmap](#future-roadmap)
-- [Project Structure](#project-structure)
-- [Author](#author)
 
----
 
 ## 📘 Overview
 
